@@ -1,4 +1,3 @@
-# SistemaDeCadastro
 Olá!
 
 Para conseguirmos rodar o projeto, precisa definir as configurações na classe de conexão, a conexao.php
